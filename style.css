@@ -1,0 +1,13 @@
+table,th,td{
+    border: 1px solid black;
+    background-color: rgb(255, 228, 188);
+    border-collapse: collapse;
+    font-size: 25px;
+}
+th{
+    background-color: orange;
+}
+#tr{
+    border: solid;
+
+}
